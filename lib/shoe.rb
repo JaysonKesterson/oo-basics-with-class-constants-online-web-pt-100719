@@ -10,6 +10,7 @@ class Shoe
       if brand_unique != brand
     BRANDS << brand
      end
+   end
   end
 
   def cobble
